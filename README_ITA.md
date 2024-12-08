@@ -10,7 +10,7 @@ Questa repository contiene una serie di progetti che ho sviluppato per migliorar
   _Predizione dell'MVP (Most Valuable Player) and ROY (Rookie of the Year) della NBA nella stagione 2023/2024 utilizzando SVM e Random Trees, comparandone i risultati._
 
 ### Tecnologie Utilizzate
-- **Python**,
+- **Python**
 - Librerie e framework: **Pandas**, **Scikit-Learn**, **Numpy**
 - Strumenti di visualizzazione: **Excel**
 
