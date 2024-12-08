@@ -1,7 +1,5 @@
 # Progetti Personali
 
-## Italiano 🇮🇹
-
 Benvenuto nella mia collezione di progetti personali!
 Questa repository contiene una serie di progetti che ho sviluppato per migliorare le mie competenze tecniche, esplorare nuove tecnologie e affrontare problemi interessanti.
 
