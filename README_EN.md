@@ -1,7 +1,5 @@
 # Personal Projects
 
-## English 🇬🇧
-
 Welcome to my collection of personal projects! 
 This repository showcases a variety of projects I've developed to enhance my technical skills, explore new technologies, and tackle interesting challenges.
 
