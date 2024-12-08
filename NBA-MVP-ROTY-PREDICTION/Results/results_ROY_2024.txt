@@ -1,0 +1,5 @@
+player	ROY Rank SVM	player	ROY Rank Random_Forest
+Victor Wembanyama	1	Chet Holmgren	1
+Chet Holmgren	2	Brandon Miller	2
+Jaime Jaquez Jr.	3	Victor Wembanyama	3
+Brandon Miller	4	Jaime Jaquez Jr.	4

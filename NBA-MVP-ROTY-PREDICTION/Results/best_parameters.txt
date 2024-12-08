@@ -1,0 +1,42 @@
+{'race': 'MVP', 'model': 'SVM', 'season': 2020, 'params': {'C': 10, 'degree': 4, 'epsilon': 0.1, 'gamma': 'auto', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2020, 'params': {'bootstrap': True, 'max_features': 3, 'n_estimators': 100, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2019, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'auto', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2019, 'params': {'bootstrap': True, 'max_features': 5, 'n_estimators': 50, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2018, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'auto', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2018, 'params': {'bootstrap': True, 'max_features': 2, 'n_estimators': 30, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2017, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'auto', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2017, 'params': {'bootstrap': True, 'max_features': 3, 'n_estimators': 200, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2016, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'auto', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2016, 'params': {'bootstrap': True, 'max_features': 3, 'n_estimators': 100, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2015, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2015, 'params': {'bootstrap': True, 'max_features': 5, 'n_estimators': 40, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2014, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2014, 'params': {'bootstrap': True, 'max_features': 4, 'n_estimators': 40, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2013, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2013, 'params': {'bootstrap': True, 'max_features': 2, 'n_estimators': 20, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2012, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2012, 'params': {'bootstrap': True, 'max_features': 3, 'n_estimators': 20, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2011, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2011, 'params': {'bootstrap': True, 'max_features': 4, 'n_estimators': 20, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2010, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2010, 'params': {'bootstrap': True, 'max_features': 1, 'n_estimators': 100, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2009, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2009, 'params': {'bootstrap': True, 'max_features': 4, 'n_estimators': 50, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2008, 'params': {'C': 10, 'degree': 3, 'epsilon': 0.5, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2008, 'params': {'bootstrap': True, 'max_features': 2, 'n_estimators': 200, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2007, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2007, 'params': {'bootstrap': True, 'max_features': 3, 'n_estimators': 100, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2006, 'params': {'C': 10, 'degree': 3, 'epsilon': 0.1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2006, 'params': {'bootstrap': True, 'max_features': 1, 'n_estimators': 20, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2005, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2005, 'params': {'bootstrap': True, 'max_features': 4, 'n_estimators': 50, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2004, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'auto', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2004, 'params': {'bootstrap': True, 'max_features': 2, 'n_estimators': 100, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2003, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2003, 'params': {'bootstrap': True, 'max_features': 3, 'n_estimators': 200, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': 2002, 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': 2002, 'params': {'bootstrap': True, 'max_features': 4, 'n_estimators': 200, 'oob_score': True}}
+{'race': 'MVP', 'model': 'SVM', 'season': '2024', 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'MVP', 'model': 'Random Forest', 'season': '2024', 'params': {'bootstrap': True, 'max_features': 3, 'n_estimators': 30, 'oob_score': True}}
+{'race': 'ROY', 'model': 'SVM', 'season': '2024', 'params': {'C': 10, 'degree': 3, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'poly'}}
+{'race': 'ROY', 'model': 'Random Forest', 'season': '2024', 'params': {'bootstrap': True, 'max_features': 3, 'n_estimators': 40, 'oob_score': True}}
