@@ -7,7 +7,7 @@ Questa repository contiene una serie di progetti che ho sviluppato per migliorar
 
 ### Struttura della Repository
 - **NBA-MVP-ROY_PREDICTION**   
-  _Predizione dell'MVP (Most Valuable Player) and ROY (Rookie of the Year) della NBA nella stagione 2023/2024 utilizzando SVM e Random Trees, comparandone i risultati._
+  _Predizione dell'MVP (Most Valuable Player) e ROY (Rookie of the Year) della NBA nella stagione 2023/2024 utilizzando SVM e Random Trees, comparandone i risultati._
 
 ### Tecnologie Utilizzate
 - **Python**
