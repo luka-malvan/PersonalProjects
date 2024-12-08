@@ -28,26 +28,26 @@ seasons = [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 200
 models = ['SVM', 'Random Forest']
 
 # path for results file
-file_path_metrics = '/content/metrics.txt'
-file_path_average_metrics = '/content/average_metrics.txt'
-file_path_parameters = '/content/best_parameters.txt'
-file_path_results_old_seasons = '/content/results_old_seasons.txt'
-file_path_results_MVP_2024 = '/content/results_MVP_2024.txt'
-file_path_results_ROY_2024 = '/content/results_ROY_2024.txt'
+file_path_metrics = 'NBA-MVP-ROTY-PREDICTION\Results\metrics.txt'
+file_path_average_metrics = 'NBA-MVP-ROTY-PREDICTION\Results\average_metrics.txt'
+file_path_parameters = 'NBA-MVP-ROTY-PREDICTION\Results\best_parameters.txt'
+file_path_results_old_seasons = 'NBA-MVP-ROTY-PREDICTION\Results\results_old_seasons.txt'
+file_path_results_MVP_2024 = 'NBA-MVP-ROTY-PREDICTION\Results\results_MVP_2024.txt'
+file_path_results_ROY_2024 = 'NBA-MVP-ROTY-PREDICTION\Results\results_ROY_2024.txt'
 
 # ----- FILES' READ -----
 # files for old season
-totals_2020_2002_df = pd.read_csv("Player_Totals_2020_2002.csv")
-per_game_2020_2002_df = pd.read_csv("Player_Per_Game_2020_2002.csv")
-advanced_2020_2002_df = pd.read_csv("Advanced_2020_2002.csv")
-team_summaries_2020_2002_df = pd.read_csv("Team_Summaries_2020_2002.csv")
+totals_2020_2002_df = pd.read_csv("NBA-MVP-ROTY-PREDICTION\Data-Used\Advanced_2020_2002.csv")
+per_game_2020_2002_df = pd.read_csv("NBA-MVP-ROTY-PREDICTION\Data-Used\Player_Per_Game_2020_2002.csv")
+advanced_2020_2002_df = pd.read_csv("NBA-MVP-ROTY-PREDICTION\Data-Used\Advanced_2020_2002.csv")
+team_summaries_2020_2002_df = pd.read_csv("NBA-MVP-ROTY-PREDICTION\Data-Used\Team_Summaries_2020_2002.csv")
 # files for 2024 season
-totals_2024_df = pd.read_csv("Player_Totals_2024.csv")
-per_game_2024_df = pd.read_csv("Player_Per_Game_2024.csv")
-advanced_2024_df = pd.read_csv("Advanced_2024.csv")
-team_summaries_2024_df = pd.read_csv("Team_Summaries_2024.csv")
+totals_2024_df = pd.read_csv("NBA-MVP-ROTY-PREDICTION\Data-Used\Player_Totals_2024.csv")
+per_game_2024_df = pd.read_csv("NBA-MVP-ROTY-PREDICTION\Data-Used\Player_Per_Game_2024.csv")
+advanced_2024_df = pd.read_csv("NBA-MVP-ROTY-PREDICTION\Data-Used\Advanced_2024.csv")
+team_summaries_2024_df = pd.read_csv("NBA-MVP-ROTY-PREDICTION\Data-Used\Team_Summaries_2024.csv")
 # MVPs file
-awards_2020_2002_df = pd.read_csv("MVPs.csv", sep = ';')
+awards_2020_2002_df = pd.read_csv("NBA-MVP-ROTY-PREDICTION\Data-Used\MVPs.csv", sep = ';')
 
 # ----- DATA PROCESSING -----
 # creation of some empty datasets
