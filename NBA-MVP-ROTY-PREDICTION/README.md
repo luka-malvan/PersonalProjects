@@ -56,7 +56,7 @@ The datasets were:
   - Player_Per_Game_2024.csv
   - Advanced_2024.csv
   - Team_Summaries_2024.csv
-  /Results/
+/Results/
   - metrics.txt
   - average_metrics.txt
   - best_parameters.txt
