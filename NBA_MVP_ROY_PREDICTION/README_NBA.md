@@ -74,6 +74,7 @@ Code File:
 pip install pandas numpy scikit-learn
 3. Place all datasets in the `/Data_Used/` folder.
 4. Run the `mvp_roy_prediction.py` file to generate predictions and metrics. (it needs some minutes to run)
+5. Ensure to modify all path with the correct ones.
 
 ## Output
 The results include:
