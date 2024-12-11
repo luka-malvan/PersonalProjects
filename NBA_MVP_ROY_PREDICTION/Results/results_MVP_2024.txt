@@ -1,0 +1,11 @@
+player	Predicted MVP Share SVM	MVP Rank SVM	player	Predicted MVP Share Random_Forest	MVP Rank Random_Forest
+Joel Embiid	707.983	1	Giannis Antetokounmpo	657.0	1
+Nikola Jokić	525.844	2	Joel Embiid	650.7	2
+Giannis Antetokounmpo	271.642	3	Shai Gilgeous-Alexander	596.65	3
+Shai Gilgeous-Alexander	185.32	4	Nikola Jokić	475.3	4
+Luka Dončić	178.68	5	Luka Dončić	452.45	5
+James Harden	89.859	6	Tyrese Haliburton	191.65	6
+Jamal Murray	81.588	7	Donovan Mitchell	156.05	7
+Zion Williamson	81.086	8	Jayson Tatum	155.25	8
+Jimmy Butler	67.454	9	Anthony Edwards	106.3	9
+Lauri Markkanen	54.743	10	Anthony Davis	105.1	10
