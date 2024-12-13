@@ -17,7 +17,7 @@ Two machine learning models are used:
 
 ## Dataset
 The project uses datasets derived and slimmed down from the comprehensive **NBA/ABA/BAA Stats** dataset available on Kaggle:  
-[Kaggle Dataset Link](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/). The dataset was from 1947 until to the present. To make the compilation time shorter I resize all files and used only dataset from 2002 until 2024. The modified files are in the Data_Used folder.
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/). The dataset was from 1947 until to the present. To make the compilation time shorter I resize all files and used only data from 2002 until 2024. The modified files are in the Data_Used folder.
 ### Data Sources
 1. **Player Totals (2002–2020 and 2024):** Player cumulative statistics.
 2. **Player Per Game (2002–2020 and 2024):** Player averages per game.
